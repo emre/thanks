@@ -1,0 +1,7 @@
+{
+  "keys": ["active_key"],
+  "nodes": ["https://api.steemit.com"],
+  "account": "your_account",
+  "userlist_file": "/path/to/user_list.txt",
+  "memo": "Thank you for the witness vote. :hugging_face:"
+}
